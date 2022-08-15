@@ -7,6 +7,8 @@ To summarize:
 4.  Add Node adapter
 5.  Add Lib directory and other standard Project files
 
+-------
+
 1.  From https://kit.svelte.dev/docs/introduction#before-we-begin:
 npm create svelte@latest my-app
 cd my-app
